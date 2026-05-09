@@ -36,8 +36,7 @@ This research was supported by the **National Action Plan to Combat Modern Slave
 **Full Title**: *AIMS.au: A Dataset for the Analysis of Modern Slavery Countermeasures in Corporate Statements*  
 **Venue**: ICLR 2025  
 **Paper**: [arXiv:2502.07022](https://arxiv.org/abs/2502.07022)  
-**License**: CC-BY
-
+**License**: CC-BY-4.0
 ### Overview
 
 **AIMS.au** is the most extensive open-source dataset with detailed annotations explicitly aligned with the mandatory criteria of the Australian Modern Slavery Act (MSA). It supports the analysis of modern slavery statements from Australian-based organisations and enables the evaluation of Large Language Models (LLMs) in assessing corporate compliance.
@@ -276,12 +275,25 @@ This hackathon brought together multidisciplinary teams from around the world to
 
 ---
 
+## 📄 License
+
+This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**, unless otherwise stated.
+
+Unless otherwise stated, this licence applies to the entire GitHub repository, including all files, folders, subdirectories, documentation, research artefacts, datasets, and released model weights contained in this repository.
+
+Users are responsible for complying with any additional terms that apply to upstream models, third-party datasets, dependencies, externally hosted files, or linked resources.
+
+### Recommended attribution
+
+When using, redistributing, or adapting material from this repository, please use the following attribution:
+
+> Project AIMS (AI Against Modern Slavery) by Mila - Quebec AI Institute and Queensland University of Technology (QUT), licensed under CC-BY-4.0. Available at: https://github.com/mila-studios/ai4h_aims-au
+
+Please also cite the relevant paper listed in the [Citation](#-citation) section when using AIMS.au, AIMSCheck, AIMSDistil, or associated research artefacts.
+
 ## 📞 Contact
 
 For questions or collaboration opportunities, please visit:
 - [Project AIMS Website](https://mila.quebec/en/ai4humanity/applied-projects/ai-against-modern-slavery-aims)
 
----
-
-**License**: CC-BY  
 
