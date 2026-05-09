@@ -65,7 +65,7 @@ The dataset consists of three annotation levels:
 
 The following diagram illustrates the correspondence between AU MSA mandatory criteria and the annotation questions in AIMS.au, including fictitious examples:
 
-<img src="exmaple.png" width="800">
+<img src="example.png" width="800">
 
 ### Dataset Statistics
 

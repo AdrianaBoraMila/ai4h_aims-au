@@ -36,7 +36,7 @@ setuptools  # package install tool
 sentence_transformers
 tensorboard  # visualization/logging
 thefuzz  # for fuzzy string matching
-tokenizers  # string encoding (part of hugginface)
+tokenizers  # string encoding (part of huggingface)
 torch~=2.1  # deep learning backbone
 torchmetrics~=1.2  # model evaluation
 torchvision~=0.16  # model architectures + data utilities
