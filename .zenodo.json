@@ -1,0 +1,32 @@
+{
+  "upload_type": "software",
+  "title": "Project AIMS: open datasets, models and frameworks for analysing corporate modern slavery statements",
+  "license": "MIT",
+  "creators": [
+    {"name": "Bora, Adriana Eufrosina", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "St-Charles, Pierre-Luc", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Arodi, Akshatha", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Zhang, Duoyi", "affiliation": "Queensland University of Technology"},
+    {"name": "Bannister, Jordan", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Bronzi, Mirko", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Fansi Tchango, Arsène", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Rousseau, Bruno", "affiliation": "Mila — Quebec AI Institute"},
+    {"name": "Bashar, Md Abul", "affiliation": "Queensland University of Technology"},
+    {"name": "Nayak, Richi", "affiliation": "Queensland University of Technology"},
+    {"name": "Thinyane, Hannah", "affiliation": "Diginex Ltd"},
+    {"name": "Mengersen, Kerrie", "affiliation": "Queensland University of Technology"}
+  ],
+  "description": "Open datasets, models and frameworks for analysing corporate modern slavery statements filed under the Australian, UK and Canadian Modern Slavery Acts. Covers four papers: AIMS.au (ICLR 2025), AIMSCheck (ACL 2025), AIMSDistill (Expert Systems with Applications 332:133691) and AIMS-QA (Data & Policy 2026). Code is MIT-licensed; data, annotations, figures and documentation are CC BY 4.0.",
+  "keywords": [
+    "modern slavery", "corporate reporting", "legislative compliance",
+    "natural language processing", "large language models", "question answering"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.6084/m9.figshare.28489340", "relation": "references", "scheme": "doi"},
+    {"identifier": "10.6084/m9.figshare.33261576", "relation": "references", "scheme": "doi"},
+    {"identifier": "10.6084/m9.figshare.33261639", "relation": "references", "scheme": "doi"},
+    {"identifier": "10.48550/arXiv.2502.07022", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.18653/v1/2025.acl-long.446", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.1016/j.eswa.2026.133691", "relation": "isSupplementTo", "scheme": "doi"}
+  ]
+}
