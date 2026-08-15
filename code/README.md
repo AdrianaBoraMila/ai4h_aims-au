@@ -28,8 +28,8 @@ First, install the framework and its dependencies:
 
 ```bash
 # clone project
-git clone https://github.com/milatechtransfer/qut01-aims
-cd qut01-aims
+git clone https://github.com/mila-studios/ai4h_aims-au.git
+cd ai4h_aims-au/code
 
 # create conda environment
 conda create -n qut01 python=3.11 pip
@@ -191,10 +191,10 @@ is done using the following scripts, which create a
 
 You can run these scripts using the raw data + annotation CSVs yourself to create your own
 dataset, or download the already-generated dataset from the project's FigShare folder
-[here](https://figshare.com/s/1b92ebfde3f2de2be0cf). As of
+[here](https://doi.org/10.6084/m9.figshare.28489340) (DOI `10.6084/m9.figshare.28489340`). As of
 August 2024, the dataset is built using register statements downloaded on 2023-11-29, annotations
 shipped by Tasq AI between 2024-01-15 and 2024-05-31, and validated annotations for 100 statements
-created by the team. It can be downloaded from here:
+created by the team.
 
 Once generated (or downloaded and unzipped), the Deep Lake dataset (i.e. the folder which should be
 named as `statements.20231129.deeplake`) should be located in the `DATA_ROOT` folder
